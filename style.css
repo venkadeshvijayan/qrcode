@@ -43,7 +43,7 @@ p{
     font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
-@media screen and (min-width: 375px) {
+@media screen and (max-width: 375px) {
     body{
         margin:50px;
     }
